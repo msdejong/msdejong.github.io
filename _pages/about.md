@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
-
-## Professional
+More to come!
+<!-- ## Professional
 
 Look at all the work that I do, results that I have! 
 
 
 ## Personal
-Sometimes, I have free time and when I do I like to do things!
+Sometimes, I have free time and when I do I like to do things! -->

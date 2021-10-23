@@ -4,13 +4,13 @@ main:
     url: /
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=R7wXId8AAAAJ&view_op=list_works&sortby=pubdate
-  - title: "Talks"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Code"
-    url: /code/
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Code"
+  #   url: /code/
   - title: "CV"
-    url: /cv/
-  - title: "Contact"
-    url: /contact/
+    url: /assets/pdfs/cvmsdejong.pdf
+  # - title: "Contact"
+  #   url: /contact/

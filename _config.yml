@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "Michiel de Jong"
 title_separator          : "-"
 name                     : "Name1 Name2"
 description              : "Name's academic homepage"
@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Michiel de Jong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "PhD student in Computer Science at University of Southern California, advised by Fei Sha."
   location         : "Los Angeles"
   employer         : "University of Southern California"
   email            : "msdejong@gmail.com"
