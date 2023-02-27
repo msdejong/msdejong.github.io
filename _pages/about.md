@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-I am a final-year PhD student at the University of Southern California, advised by Fei Sha and Leona Golubchik. 
+I am a final-year PhD student at the University of Southern California, advised by Fei Sha and Leana Golubchik. 
 
 My research focuses on augmenting language models with the tools to retrieve and reason over information. Retrieval-augmented language are highly computationally expensive; recently I have been working on methods to make retrieval-augmented approaches more scalable.
 
