@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-I am currently a PhD student at the University of Southern California, advised by Fei Sha. At a high level, I am interested in neural network inductive biases that encourage compositional generalization. In practice my recent work has studied how to incorporate information from a text corpus into a neural model and how best to combine and reason over this information.
+I am a final-year PhD student at the University of Southern California, advised by Fei Sha and Leona Golubchik. 
+
+My research focuses on augmenting language models with the tools to retrieve and reason over information. Retrieval-augmented language are highly computationally expensive; recently I have been working on methods to make retrieval-augmented approaches more scalable.
 
 In my free time, I like reading, standup comedy, escape rooms and competitive gaming. 
